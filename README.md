@@ -47,13 +47,6 @@ A security-oriented web application that evaluates internship postings to help s
 
 ---
 
-### 🧠 News & Social Media Credibility Analyzer *(In Progress)*
-> `Python` `Generative AI` `NLP`
-
-An intelligent credibility analysis system using NLP models to help users identify reliable news and social media content. Includes classification layers to proactively counter misinformation through automated credibility assessments.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
